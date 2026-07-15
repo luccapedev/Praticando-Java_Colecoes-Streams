@@ -37,39 +37,39 @@ public class Main {
                     break;
                 case 2:
                     AtividadeDois atividadeDois = new AtividadeDois();
-                    atividadeDois.executar();
+
                     break;
                 case 3:
                     AtividadeTres atividadeTres = new AtividadeTres();
-                    atividadeTres.executar();
+
                     break;
                 case 4:
                     AtividadeQuatro atividadeQuatro = new AtividadeQuatro();
-                    atividadeQuatro.executar();
+
                     break;
                 case 5:
                     AtividadeCinco atividadeCinco = new AtividadeCinco();
-                    atividadeCinco.executar();
+
                     break;
                 case 6:
                     AtividadeSeis atividadeSeis = new AtividadeSeis();
-                    atividadeSeis.executar();
+
                     break;
                 case 7:
                     AtividadeSete atividadeSete = new AtividadeSete();
-                    atividadeSete.executar();
+
                     break;
                 case 8:
                     AtividadeOito atividadeOito = new AtividadeOito();
-                    atividadeOito.executar();
+
                     break;
                 case 9:
                     AtividadeNove atividadeNove = new AtividadeNove();
-                    atividadeNove.executar();
+
                     break;
                 case 10:
                     AtividadeDez atividadeDez = new AtividadeDez();
-                    atividadeDez.executar();
+
                     break;
                 case 0:
                     break;
