@@ -45,11 +45,11 @@ public class Main {
                     break;
                 case 4:
                     AtividadeQuatro atividadeQuatro = new AtividadeQuatro();
-
+                    atividadeQuatro.executar();
                     break;
                 case 5:
                     AtividadeCinco atividadeCinco = new AtividadeCinco();
-
+                    atividadeCinco.executar();
                     break;
                 case 6:
                     AtividadeSeis atividadeSeis = new AtividadeSeis();
