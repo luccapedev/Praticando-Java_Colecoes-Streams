@@ -53,7 +53,7 @@ public class Main {
                     break;
                 case 6:
                     AtividadeSeis atividadeSeis = new AtividadeSeis();
-
+                    atividadeSeis.executar();
                     break;
                 case 7:
                     AtividadeSete atividadeSete = new AtividadeSete();
