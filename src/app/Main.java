@@ -57,7 +57,7 @@ public class Main {
                     break;
                 case 7:
                     AtividadeSete atividadeSete = new AtividadeSete();
-
+                    atividadeSete.executar();
                     break;
                 case 8:
                     AtividadeOito atividadeOito = new AtividadeOito();
