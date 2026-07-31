@@ -11,6 +11,6 @@ public class AtividadeNove {
         double totalComImposto = totalGasto + imposto;
 
         System.out.println("Valor total antes do imposto: R$" + String.format("%.2f", totalGasto));
-        System.out.println("Valor total com imposto de 8%: R$" + String.format("%.2f", totalComImposto));
+        System.out.println("Valor total com imposto de 8%: R$" + String.format("%.2f", totalComImposto)); 
     }
 }
