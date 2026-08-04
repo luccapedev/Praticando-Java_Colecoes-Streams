@@ -69,7 +69,7 @@ public class Main {
                     break;
                 case 10:
                     AtividadeDez atividadeDez = new AtividadeDez();
-
+                    atividadeDez.executar();
                     break;
                 case 0:
                     break;
