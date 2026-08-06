@@ -11,6 +11,6 @@ public class AtividadeDez {
 
         System.out.println("A média das notas é: " + String.format("%.1f", mediaNotas));
         System.out.println("A maior nota é: " + String.format("%.1f", maiorNota));
-        System.out.println("A menor nota é: " + String.format("%.1f", menorNota));
+        System.out.println("A menor nota é: " + String.format("%.1f", menorNota)); 
     }
 }
